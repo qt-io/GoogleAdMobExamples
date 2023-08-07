@@ -18,7 +18,7 @@ Example of how to integrate GoogleAdMob in an Android Application
 
 ---
 
-## iOS - TODO
+## iOS
 
 Example of how to integrate GoogleAdMob in an iOS Application
 
@@ -50,7 +50,7 @@ open iOSAdMob.xcworkspace
 
 ---
 
-## Flutter - TODO
+## Flutter
 
 - [Code example](FlutterAdMob)
 - [Documentation](https://developers.google.com/admob/flutter/quick-start)
